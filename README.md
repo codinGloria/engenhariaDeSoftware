@@ -2,7 +2,7 @@
 
 Plataforma: Instituto INFNET
 
-Aqui, você encontrará materiais, anotações, projetos e atividades relacionadas às disciplinas do curso.
+O curso cobre as linguagens de programação mais exigidas pelo mercado, como JS, Python, Java, SQL, .NET, C#, sempre alinhadas às competências requeridas, além de metodologias ágeis, engenharia de requisitos, arquitetura de software, qualidade de software e gestão de projetos. Aqui, você encontrará materiais, anotações, projetos e atividades relacionadas às disciplinas do curso.
 
 <h2> Estrutura do Curso ✨ </h2>
 
