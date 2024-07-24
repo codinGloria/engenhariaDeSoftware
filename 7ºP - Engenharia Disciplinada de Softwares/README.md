@@ -1,28 +1,19 @@
-Bloco 13: Engenharia Disciplinada de Softwares I
+<h1 align="center"> Bloco 13 e 14: Engenharia Disciplinada de Softwares </h1>
+
+Este período aborda as melhores práticas de codificação e os princípios da análise, projeto e construção disciplinada de softwares, utilizando metodologias ágeis. Além de passarmos por refatoração.
+
+## Disciplinas - Bloco 13
+
+- Análise, Projeto e Construção Disciplinada de Softwares I
+- Melhores Práticas de Codificação
 ________________________________________
-Engenharia Disciplinada de Softwares I
-Descrição do Bloco
-Este bloco aborda as melhores práticas de codificação e os princípios da análise, projeto e construção disciplinada de softwares, utilizando metodologias ágeis.
-Disciplinas
-•	Análise, Projeto e Construção Disciplinada de Softwares I (80 horas)
-o	Fundamentos de análise e projeto de software, utilizando metodologias ágeis.
-•	Melhores Práticas de Codificação (80 horas)
-o	Melhores práticas e técnicas avançadas de codificação em desenvolvimento de software.
-Projeto Integrador
-Projeto de Bloco: Engenharia Disciplinada de Softwares I
-•	Desenvolvimento de um software complexo com impacto social ou ambiental positivo, escrito em Java ou .NET C#, utilizando metodologias ágeis DAD (Disciplined Agile) e Unified Process, acompanhado de artefatos de modelagem de objetos e engenharia de software.
+
+## Disciplinas - Bloco 14
+
+- Análise, Projeto e Construção Disciplinada de Softwares II
+- Refatoração
 ________________________________________
-Bloco 14: Engenharia Disciplinada de Softwares II
-________________________________________
-Engenharia Disciplinada de Softwares II
-Descrição do Bloco
-Continuação do estudo em engenharia de software disciplinada, com foco em refatoração e práticas avançadas de análise e projeto.
-Disciplinas
-•	Análise, Projeto e Construção Disciplinada de Softwares II (80 horas)
-o	Técnicas avançadas de análise, projeto e construção de software.
-•	Refatoração (80 horas)
-o	Práticas e técnicas de refatoração de código para melhorar a qualidade e a manutenção de software.
-Projeto Integrador
-Projeto de Bloco: Engenharia Disciplinada de Softwares II
-•	Continuação do desenvolvimento de software complexo, com foco em práticas avançadas de engenharia de software e refatoração.
-________________________________________
+
+## Projeto de Bloco
+
+Desenvolvimento de um software complexo com impacto social ou ambiental positivo, escrito em Java ou .NET C#, utilizando metodologias ágeis DAD (Disciplined Agile) e Unified Process, acompanhado de artefatos de modelagem de objetos e engenharia de software. 
