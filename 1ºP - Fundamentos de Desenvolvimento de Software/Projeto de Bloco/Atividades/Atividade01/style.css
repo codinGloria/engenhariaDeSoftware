@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #1305ff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#circulo {
+    border-radius: 50%;
+    border: #1305ff dashed;
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px
+}
+
+#card {
+    background-color: #f5f5dc;
+    border: solid red;
+    border-radius: 14px;
+    width: 330px;
+    height: 316px;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    background-color: green;
+    height: 1px;
+}
+
+.highlight {
+    background-color: darkred;
+    color: white;
+}
+
+#info {
+    width: 150px;
+    border-top: blue solid;
+    border-right: blue solid;
+}
+
+#info p {
+    margin-top: 0;
+}
+
+.idade {
+    font-weight: bold;
+    color: green;
+}
+
+.setor {
+    font-style: italic;
+    color: green;
+}
+
+footer {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
