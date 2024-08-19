@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Shadows+Into+Light&display=swap');
+
+@font-face {
+    font-family: "Kanit";
+    src: url("./Kanit/Kanit-Regular.ttf");
+}
+
+/* . para classes, # para ids */
+.fonte-diferente {
+    font-family: "Kanit", Arial;
+    font-weight: 400;
+    border: 2px dashed green;
+}
+
+#fonte-unica {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    border: 5px double red;
+}
+
+h1 {
+    color: gray;
+    font-family: "Shadows Into Light", cursive;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Edu AU VIC WA NT Hand', cursive;
+    font-weight: bold;
+    /* font-style: italic; */
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
