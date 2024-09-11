@@ -1,0 +1,84 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #e63946;
+}
+
+/* Seletor por tag */
+p {
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* Seletor por id */
+#titulo {
+  color: #e63946;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #f1faee;
+  padding-bottom: 10px;
+}
+
+/* Seletor por classe */
+.destaque {
+  color: #fff;
+  background-color: #e63946;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Seletor de atributo */
+a[href] {
+  text-decoration: none;
+  color: #457b9d;
+  font-weight: bold;
+}
+
+/* Seletor de pseudo-classe */
+a:hover {
+  color: #f1faee; /* Branco suave */
+  background-color: #457b9d;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+/* Seletor de descendente */
+div p {
+  font-style: italic;
+  color: darkred;
+}
+
+div {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f1faee;
+  border-left: 5px solid #e63946;
+}
+
+ul {
+  margin-left: 20px;
+  list-style: none;
+  padding-left: 0;
+  font-weight: bold;
+}
+
+ul li {
+  position: relative;
+  padding-left: 20px; 
+}
+
+ul li::before {
+  content: "•";
+  color: #e63946; 
+  position: absolute;
+  left: 0;
+}

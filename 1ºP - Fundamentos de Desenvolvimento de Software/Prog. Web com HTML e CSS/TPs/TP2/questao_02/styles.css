@@ -1,0 +1,33 @@
+.paragrafo01 {
+  background-color: lightblue;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+#paragrafo02 {
+  background-color: lightgoldenrodyellow;
+  border: 2px goldenrod solid;
+  padding: 4px;
+  text-align: right;
+}
+
+p:nth-of-type(3) {
+  background-color: lightgreen;
+  font-size: 20px;
+  padding: 8px;
+  text-align: center;
+}
+
+#paragrafo04 {
+  background-color: lightpink;
+  transition: background-color 0.3s ease;
+  border-radius: 12px;
+  padding: 10px;
+  text-align: justify;
+}
+
+#paragrafo04:hover {
+  background-color: palevioletred;
+  color: white;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Aula 10</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<h1> Mídia na Web </h1>
+
+	<video src="https://cdn.pixabay.com/video/2021/08/10/84574-586228759_tiny.mp4" style="width: 600px;" controls muted loop poster="https://cdn.pixabay.com/photo/2024/02/26/19/39/monochrome-image-8598798_640.jpg"></video>
+	<video style="width: 600px;" controls autoplay muted loop>
+		<source src="https://cdn.pixabay.com/video/2021/07/30/83274-581386222_tiny.mp4" type="video/mp4">
+		<source src="video3.mp4"> <!-- fica como um fallback do primeiro video -->
+	</video>
+
+	<hr>
+
+	<audio src="musica.mp3" controls autoplay muted loop></audio>
+
+	<hr>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/r2v2eJAtg7Y?si=MAcT4MalfqSPplqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<!--sempre usar os links "incorporados", embed -->
+</body>
+</html>

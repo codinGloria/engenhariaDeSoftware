@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.container {
+  width: 600px;
+  border: 1px solid #dbdbdb;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+header {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+header img {
+  height: 40px;
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+}
+
+.perfil img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 14px;
+}
+
+.usuario {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.post {
+  width: 100%;
+  display: block;
+}
+
+.likes {
+  padding: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.likes span {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+p {
+  padding: 0 16px 16px;
+  font-size: 14px;
+}
+

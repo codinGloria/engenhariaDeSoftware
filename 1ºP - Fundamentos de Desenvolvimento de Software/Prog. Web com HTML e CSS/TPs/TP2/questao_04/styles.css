@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Baskervville SC";
+  src: url("./fonts/Baskervville_SC/BaskervvilleSC-Regular.ttf");
+}
+@font-face {
+  font-family: "Nerko One";
+  src: url("./fonts/Nerko_One/NerkoOne-Regular.ttf");
+}
+@font-face {
+  font-family: "Playwrite CU";
+  src: url("./fonts/Playwrite_CU/static/PlaywriteCU-Regular.ttf");
+}
+
+.paragrafo01 {
+  font-family: "Baskervville SC";
+}
+
+.paragrafo02 {
+  font-family: "Nerko One";
+}
+
+.paragrafo03 {
+  font-family: "Playwrite CU";
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelass</title>
+	  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Tabelass</h1>
+    
+    <table >
+      <tr> <!-- Table Row - Linha da tabela -->
+        <th>Nome Estudante</th> <!-- Table Head - Cabeçalho -->
+        <th>Nota TP2</th>
+        <th>Nota TP3</th>
+        <th>Status Aprovação</th>
+      </tr>
+      <tr>
+        <td>Cidcley Schmitt de Oliveira Santos Silva de Almeida</td> <!-- Table Data - Dados da tabela -->
+        <td class="nota">5.5</td>
+        <td class="nota reprova">4</td>
+        <td>Reprovado</td>
+      </tr>
+      <tr>
+        <td>Oswaldo</td>
+        <td class="nota">9.5</td>
+        <td class="nota">9</td>
+        <td>Aprovado</td>
+      </tr>
+    </table>
+    <br><hr><br>
+    <table id="pagamento">
+      <thead>
+        <tr>
+          <th>Nome Funcionário(a)</th>
+          <th>Função - Atividade</th>
+          <th>Salário Mensal</th>
+          <th>Salário Anual</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Cidcley Schmitt</td>
+          <td>Desenvolvedor Web</td>
+          <td class="valor">R$ 8.000,00</td>
+          <td class="valor">R$ 96.000,00</td>
+        </tr>
+        <tr>
+          <td>Luan Henrique</td>
+          <td>Desenvolvedor Back-End</td>
+          <td>R$ 20.000,00</td>
+          <td>R$ 240.000,00</td>
+        </tr>
+        <tr>
+          <td rowspan="2">Lívia Braz</td>
+          <td>Desenvolvedora Front-End</td>
+          <td>R$ 18.000,00</td>
+          <td>R$ 216.000,00</td>
+        </tr>
+        <tr>
+          
+          <td>QA - Tester</td>
+          <td>R$ 5.000,00</td>
+          <td>R$ 60.000,00</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <th colspan="2">Total Geral</th>
+          
+          <th>valortotalmensal</th>
+          <th>valortotalanual</th>
+        </tr>
+      </tfoot>
+    </table>
+    
+  </body>
+</html>

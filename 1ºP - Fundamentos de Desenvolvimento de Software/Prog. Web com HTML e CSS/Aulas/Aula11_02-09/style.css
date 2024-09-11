@@ -1,0 +1,38 @@
+
+table,
+td,
+th{
+  border: 1px solid black;
+  /* border-radius: 8px; */
+  /* border-collapse: collapse; */
+}
+th{
+  background-color: darkred;
+  color: white;
+}
+td, 
+th{
+  padding: 5px 10px 5px 10px; /* shorthand description */
+  /* padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px; */
+}
+table{
+  border-spacing: 2px;
+}
+.nota, 
+.valor{
+  text-align: right;
+  color: darkgreen;
+}
+.reprova{
+  color: red;
+}
+
+#pagamento thead tr th,
+#pagamento tfoot tr th{
+  background-color: steelblue;
+  color: white;
+}
+

@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #4A3D4E;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.player-container {
+  width: 576px;
+  background-color: #422A3A;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.cover-container {
+  position: relative;
+}
+
+.cover-container img {
+  width: 100%;
+  display: block;
+}
+
+.song-info {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  z-index: 10;
+}
+
+.song-info .details {
+  font-size: 20px;
+}
+
+.song-info .menu {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #FFC107;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.controls {
+  padding: 20px;
+  background-color: #422A3A;
+}
+
+.controls .progress {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #C1AAB1;
+}
+
+.controls .progress-bar {
+  width: 100%;
+  height: 5px;
+  background-color: #FFC107;
+  border-radius: 5px;
+  margin-top: 5px;
+  position: relative;
+}
+
+.controls .progress-bar span {
+  display: block;
+  height: 100%;
+  width: 30%;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.controls .buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.controls .buttons i {
+  font-size: 32px;
+  color: #FFC107;
+  cursor: pointer;
+}
+
+.controls .buttons i.play {
+  font-size: 48px;
+}
