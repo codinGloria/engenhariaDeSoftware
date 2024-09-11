@@ -4,6 +4,10 @@ Plataforma: Instituto INFNET
 
 O curso cobre as linguagens de programação mais exigidas pelo mercado, como JS, Python, Java, SQL, .NET, C#, sempre alinhadas às competências requeridas, além de metodologias ágeis, engenharia de requisitos, arquitetura de software, qualidade de software e gestão de projetos. Aqui, você encontrará materiais, anotações, projetos e atividades relacionadas às disciplinas do curso.
 
+O método de avaliação que temos por lá são:
+  - 3 Testes de Performance (Cada matéria tem sua pasta TPs, com cada um deles feitos)
+  - Uma Avaliação (A prova final de cada disciplina, encontre-os nas pastas AT)
+
 <h2> Estrutura do Curso ✨ </h2>
 
 O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos, temos um conjunto de disciplinas de um determinado tema e 2 projetos integradores que consolidam o aprendizado de cada fase.
