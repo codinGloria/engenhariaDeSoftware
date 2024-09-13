@@ -1,0 +1,61 @@
+table,
+td,
+th {
+  border: 1px solid black;
+  /* border-radius: 8px; */
+  /* border-collapse: collapse; */
+}
+
+th {
+  background-color: darkred;
+  color: white;
+}
+
+td, 
+th {
+  padding: 5px 10px 5px 10px; /* shorthand description */
+  /* padding-top: 5px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px; */
+}
+
+table {
+  border-spacing: 2px;
+}
+
+.nota, 
+.valor {
+  text-align: right;
+  color: darkgreen;
+}
+
+.reprova {
+  color: red;
+}
+
+#pagamento thead tr th,
+#pagamento tfoot tr th {
+  background-color: steelblue;
+  color: white;
+}
+
+#first-table tr:nth-child(even),
+#pagamento tr:nth-child(even) {
+  background-color: ghostwhite;
+}
+
+#first-table tr:nth-child(odd),
+#pagamento tr:nth-child(odd) {
+  background-color: gainsboro;
+}
+
+#first-table tr :first-child {
+  font-size: 40px;
+  font-style: italic;
+}
+
+#pagamento tr :last-child {
+  color: red;
+  font-weight: bold;
+}
