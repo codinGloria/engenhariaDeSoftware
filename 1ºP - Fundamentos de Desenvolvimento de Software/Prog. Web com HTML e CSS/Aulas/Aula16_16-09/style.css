@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 16px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+header img {
+    height: 100px;
+}
+
+nav {
+    width: 600px;
+}
+
+nav ul {
+    height: 100px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-menu {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #171717;
+    font-weight: 500;
+}
+
+#auth {
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+}
+
+#auth .link-button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #171717;
+    font-weight: 500;
+    background-color: transparent;
+    border: none;
+}
+
+#auth .ghost-button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    color: #171717;
+    font-weight: 500;
+    border: 2px solid #9E9C9C;
+    border-radius: 8px;
+    background-color: transparent;
+    padding: 7px 10px;
+}
+
+main {
+
+}
+
+#hero {
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 40px;
+    margin: 100px 75px 0 75px;
+    align-items: center;
+}
+
+#hero .desc-hero {
+    height: 415px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#hero .desc-hero hr {
+    border: 2px solid orange;
+    width: 50%;
+}
+
+#hero .desc-hero h2 {
+    font-size: 56px;
+    color: orange;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
+
+#hero .desc-hero h3{
+    font-size: 24px;
+    color: #171717;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+#hero .desc-hero button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: #171717;
+    font-weight: 600;
+    border: 2px solid orange;
+    border-radius: 32px;
+    background-color: transparent;
+    padding: 7px 10px;
+    width: 220px;
+}
+
+#hero .img-hero img {
+    width: 320px;
+}
