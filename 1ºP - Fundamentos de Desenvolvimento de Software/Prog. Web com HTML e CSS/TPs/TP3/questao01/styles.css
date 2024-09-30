@@ -1,0 +1,23 @@
+* {
+  background-color: #e0e0e0;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.minhasFotos {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column; 
+  flex-wrap: nowrap; 
+  justify-content: center; 
+  align-items: center;
+}
+
+img {
+  width: 20vw;
+  height: 30vh;
+  padding: 4px;
+}
