@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 400px;
+    height: 250px;
+    border: 3px solid steelblue;
+    background-color: lightsteelblue;
+}
+
+#pai {
+    left: 200px;
+    top: 400px;
+}
+
+.posicionando {
+    background-color: lightgreen;
+    position: fixed;
+    top: calc(50% - 125px);
+    left: calc(50% - 200px);
+}
+
+.posiciona {
+    /* position: sticky;
+    top: 100px; */
+    position: absolute;
+    left: 150px;
+    top: 1000px;
+}
+
+header {
+    height: 100px;
+    background-color: aquamarine;
+    position: fixed;
+    top: 0;
+    display: block;
+    width: 100vw;
+}
+
+footer {
+    height: 200px;
+    background-color: darkslategray;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    width: 100vw;
+}
+
+h1 {
+    margin-top: 100px;
+    clear: both;
+}
+
+h2 {
+    position: relative;
+    /* top: 250px;
+    left: 100px; */
+    z-index: 5;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 24px;
+    float: left;
+}
