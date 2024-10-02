@@ -5,7 +5,9 @@ Este período é focado nos fundamentos do desenvolvimento de software, abordand
 ## Disciplinas - Bloco 1
 
 - Planejamento de Curso e Carreira
-- Programação Web com HTML 5 e CSS 3
+- Programação Web com HTML 5 e CSS 3 
+    <br>
+    -> Projeto final encontra-se no repositório: <a href="https://github.com/codinGloria/portfolioHTMLCSS">Portfolio HTML CSS</a>
 - Programação Web com JavaScript I
 ________________________________________
 
