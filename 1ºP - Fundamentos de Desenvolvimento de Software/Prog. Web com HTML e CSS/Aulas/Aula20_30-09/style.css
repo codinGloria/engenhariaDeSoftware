@@ -1,0 +1,115 @@
+/* BREAKPOINTS PARA RESPONSIVIDADE */
+
+/* Extra small devices (portrait phones)
+Não precisa de @media pois seria o "default" do projeto*/
+
+/* Small devices (landscape phones)
+@media (min-width: 576px) {...}  */
+
+/* Medium devices (tablets)
+@media (min-width: 768px) {...}  */
+
+/* Large devices (desktops)
+@media (min-width: 992px) {...}  */
+
+/* Extra large devices (large desktops)
+@media (min-width: 1200px) {...}  */
+
+/* XXL devices (monitores gigants)
+@media (min-width: 1440px) {...}  */
+
+/* XXXL devices (TVs, totens)
+@media (min-width: 1980px) {...}  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: black;
+}
+
+span {
+    display: block;
+}
+
+ul {
+    display: none;
+    list-style: none;
+    flex-direction: column;
+}
+
+.menuItem {
+    flex: 1;
+    padding: 10px 18px;
+    border: 2px solid maroon;
+    color: maroon;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+/* ******** MEDIA QUERIES ******** */
+
+@media (min-width:320px){
+    body {
+        background-color: lightsalmon;
+    }
+    h1 {
+        color:white;
+    }
+}
+
+@media (min-width:576px){
+    body {
+        background-color: lightgray;
+    }
+}
+
+@media (min-width:768px){
+    body {
+        background-color: lightskyblue;
+    }
+}
+
+@media (min-width:992px){
+    body {
+        background-color: lightcoral;
+    }
+    span{
+        display: none;
+    }
+    ul {
+        display: flex;
+        flex-direction: row;
+    }
+    .menuItem {
+        color: blue;
+        border-color: blue;
+    }
+}
+
+@media (min-width:1200px){
+    body {
+        background-color: lightgreen;
+    }
+}
+
+@media (min-width:1440px){
+    body {
+        background-color: lightgoldenrodyellow;
+    }
+}
+
+@media (min-width:1980px){
+    body {
+        background-color: lightsteelblue;
+    }
+}
