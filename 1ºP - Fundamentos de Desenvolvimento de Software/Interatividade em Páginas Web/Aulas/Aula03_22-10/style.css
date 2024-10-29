@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 60px;
+    width: 100vw;
+    display: block;
+    border: 2px dashed red;
+}
+
+footer:hover {
+    font-weight: bold;
+}
+
+.borda, #borda {
+    border: 5px solid steelblue;
+}
