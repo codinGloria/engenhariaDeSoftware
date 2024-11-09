@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: steelblue;
+    font-size: 36px;
+    font-family: sans-serif;
+    color: white;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    background-color: lightsteelblue;
+    height: 50px;
+    border: 3px solid rgb(21, 108, 180);
+    border-radius: 0 0 10px 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    align-items:center;
+    height: 50px;
+}
+
+li.menuItem{
+    font-size: 24px;
+    font-family: sans-serif;
+    flex-grow: 1;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+}
