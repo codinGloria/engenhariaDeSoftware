@@ -1,0 +1,18 @@
+.azul {
+  background-color: blue;
+  color: white;
+}
+.vermelho {
+  background-color: red;
+  color: white;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}

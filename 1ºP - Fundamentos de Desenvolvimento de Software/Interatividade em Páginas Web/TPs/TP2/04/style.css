@@ -1,0 +1,13 @@
+.borda {
+  border: 2px solid black;
+}
+
+.texto {
+  color: purple;
+  font-size: 18px;
+}
+
+.fundo {
+  background-color: lightgray;
+  padding: 10px;
+}

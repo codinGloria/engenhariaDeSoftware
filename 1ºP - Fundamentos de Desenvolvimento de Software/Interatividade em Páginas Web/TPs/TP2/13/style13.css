@@ -1,0 +1,25 @@
+div#modal {
+  width: 400px;
+  border: 1px solid;
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  border-radius: 15px;
+}
+div#modal .header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  font-weight: bold;
+}
+div#modal p {
+  margin: 10px;
+}
+
+img {
+  height: 16px;
+}
+
+.hide {
+  display: none;
+}
