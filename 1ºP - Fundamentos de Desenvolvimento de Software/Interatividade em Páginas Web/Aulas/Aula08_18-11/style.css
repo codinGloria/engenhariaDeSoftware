@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+body {
+
+}
+header {
+    width: 414px;
+    height: 112px;
+    padding: 17px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logoMobile {
+    display: block;
+    width: 104px;
+    height: 51.37px;
+    top: 10px;
+    left: 9px;
+}
+#logoDesktop {
+    display: none;
+}
+#menuHamburguer {
+    display: block;
+    width: 20px;
+    cursor: pointer;
+}
+#menuClose {
+    display: none;
+    width: 20px;
+    cursor: pointer;
+}
+#navMenu {
+    display: none;
+    position: absolute;
+    top: 112px;
+    right: 0;
+}
+#navMenu ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 200px;
+    gap: 15px;
+    padding: 10px 20px;
+    background-color: #fa4b0c65;
+    border-radius: 15px 0 0 15px;
+}
+.menuItem {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+.active {
+    color: #fa4a0c;
+}
+
+/* ********** RESPONSIVIDADE ********** */
+@media (min-width: 414px){
+    header {
+        width: 100vw;
+    }
+}
+@media (min-width: 768px){
+    header {
+        height: 156px;
+        padding: 26px;
+    }
+    #logoMobile {
+        display: none;
+    }
+    #logoDesktop {
+        display: block;
+        width: 206px;
+        height: 101.76px;
+    }
+    #menuHamburguer {
+        display: none;
+    }
+    #navMenu {
+        display: block;
+        width: 45vw;
+        position: static;
+    }
+    #navMenu ul {
+        flex-direction: row;
+        height: 48px;
+        background-color: transparent;
+    }
+}
