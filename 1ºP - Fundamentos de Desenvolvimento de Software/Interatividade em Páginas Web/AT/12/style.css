@@ -1,0 +1,44 @@
+#lista {
+  list-style: none;
+  justify-content: center;
+}
+
+#lista li {
+  padding: 10px;
+  border-bottom: 2px solid #ccc;
+}
+
+#lista li button {
+  background-color: #4caf50;
+  color: #fff;
+  margin-left: 14px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+#lista li button:hover {
+  background-color: #3e8e41;
+}
+
+#adicionar {
+  background-color: #4caf50;
+  color: #fff;
+  margin-left: 14px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+#adicionar:hover {
+  background-color: #3e8e41;
+}
+
+#tarefa {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  width: 50%;
+}

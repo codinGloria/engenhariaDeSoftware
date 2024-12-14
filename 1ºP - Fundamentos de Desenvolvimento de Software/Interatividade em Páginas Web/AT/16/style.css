@@ -1,0 +1,124 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.post {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 375px;
+  max-width: 90%;
+}
+
+.perfil {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.perfil-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.perfil-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.perfil-info span:first-child {
+  font-weight: bold;
+}
+
+.imagem-post {
+  position: relative;
+}
+
+.imagem-post-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.interacoes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.interacoes i {
+  font-size: 20px;
+  color: #000;
+  margin-right: 5px;
+}
+
+.coracao span {
+  font-weight: bold;
+  color: #000;
+}
+
+.descricao {
+  padding: 10px;
+}
+
+.descricao span {
+  display: block;
+  margin-top: 5px;
+  color: #262626;
+  font-size: 14px;
+}
+
+.comentarios-lista {
+  margin-top: 10px;
+  max-height: 100px;
+  overflow-y: auto;
+  color: #8e8e8e;
+}
+
+.coracao i {
+  color: #ccc;
+  transition: color 0.2s ease-in-out;
+}
+
+.coracao.cheio i {
+  color: #ff0000;
+}
+
+.salvar i {
+  color: #ccc;
+  transition: color 0.2s ease-in-out;
+}
+
+.salvar.salvo i {
+  color: #000;
+}
+
+.perfil-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  transition: width 0.2s ease-in-out, height 0.2s ease-in-out;
+}
+
+.perfil-img:hover {
+  width: 80px;
+  height: 80px;
+}
+
+.comentario-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
