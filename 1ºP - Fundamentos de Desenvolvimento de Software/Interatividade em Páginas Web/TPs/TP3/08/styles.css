@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+}
+
+.container {
+  width: 48%;
+  height: 100%;
+  border: 2px solid #aaa;
+  padding: 10px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+#origem {
+  background-color: #f9f9f9;
+}
+
+#destino {
+  background-color: #eef6ff;
+}
+
+.item {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #999;
+  cursor: grab;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.drag-over {
+  border: 2px dashed #007bff;
+  background-color: #e6f3ff;
+}
+
+img {
+  height: 200px;
+}

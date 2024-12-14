@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Arquivo padrão</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="origem" class="container">
+      <p class="item" draggable="true">Texto Arrastável</p>
+      <div
+        class="item"
+        draggable="true"
+        style="background: lightcoral; width: 80px; height: 80px"
+      >
+        Box
+      </div>
+      <img
+        src="./assets/205.jpg"
+        alt="Imagem Arrastável"
+        class="item"
+        draggable="true"
+      />
+    </div>
+
+    <div id="destino" class="container">
+      <p>Arraste os itens para cá!</p>
+    </div>
+
+    <div id="destino" class="area"></div>
+    <script src="script.js"></script>
+  </body>
+</html>
