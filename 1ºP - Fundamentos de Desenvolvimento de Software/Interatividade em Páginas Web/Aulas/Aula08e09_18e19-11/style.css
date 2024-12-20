@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+body {
+
+}
+header {
+    width: 414px;
+    height: 112px;
+    padding: 17px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logoMobile {
+    display: block;
+    width: 104px;
+    height: 51.37px;
+    top: 10px;
+    left: 9px;
+}
+#logoDesktop {
+    display: none;
+}
+#menuHamburguer {
+    display: block;
+    width: 20px;
+    cursor: pointer;
+}
+#menuClose {
+    display: none;
+    width: 20px;
+    cursor: pointer;
+}
+#navMenu {
+    display: none;
+    position: absolute;
+    top: 112px;
+    right: 0;
+}
+#navMenu ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 200px;
+    gap: 15px;
+    padding: 10px 20px;
+    background-color: #fa4b0c65;
+    border-radius: 15px 0 0 15px;
+}
+.menuItem {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+.active {
+    color: #fa4a0c;
+}
+
+.displayN {
+    display: none;
+}
+
+#hero {
+    background-color: #fafafa;
+    height: 778px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#hero h2 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: #737373;
+    margin-top: 50px;
+}
+
+#hero h1 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.5px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #252842;
+}
+
+#hero h3 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: #737373;
+    padding: 0 20px;
+}
+
+#hero #buttons {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+}
+
+#hero #buttons #primary {
+    width: 236px;
+    height: 68px;
+    padding: 16px 0px 16px 0px;
+    border-radius: 30px;
+    color: #FFF;
+    background-color: #fa4a0c;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    border: 1px solid #fa4a0c;
+}
+
+#hero #buttons #secundary {
+    width: 236px;
+    height: 68px;
+    padding: 16px 0px 16px 0px;
+    border-radius: 30px;
+    color: #fa4a0c;
+    background-color: transparent;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.10000000149011612px;
+    border: 1px solid #fa4a0c;
+}
+
+
+
+
+/* ---------------------- RESPONSIVIDADE ---------------------- */
+@media (min-width: 414px){
+    header {
+        width: 100vw;
+    }
+}
+@media (min-width: 768px){
+    header {
+        height: 156px;
+        padding: 26px;
+    }
+    #logoMobile {
+        display: none;
+    }
+    #logoDesktop {
+        display: block;
+        width: 206px;
+        height: 101.76px;
+    }
+    #menuHamburguer {
+        display: none;
+    }
+    #navMenu {
+        display: block;
+        width: 45vw;
+        position: static;
+    }
+    #navMenu ul {
+        flex-direction: row;
+        height: 48px;
+        background-color: transparent;
+    }
+    #hero {
+        background-image: url(./assets/bannner.png);
+        background-color: darkslategrey;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 674px;
+        align-items: center;
+    }
+    #hero h2 {
+        font-size: 24px;
+        line-height: 26px;
+        color: #f6f6f6;
+        margin-top: 60px; 
+    }
+    #hero h1 {
+        font-size: 58px;
+        line-height: 80px;
+        color: #fff;
+        width: 939px;
+    }
+    #hero h3 {
+        color: #f6f6f6;
+        padding: 0 20px;
+    }
+    #hero #buttons {
+        flex-direction: row;
+    }
+    #hero #buttons #secundary {
+        color: #fff;
+        border: 1px solid #fff;
+    }
+}
