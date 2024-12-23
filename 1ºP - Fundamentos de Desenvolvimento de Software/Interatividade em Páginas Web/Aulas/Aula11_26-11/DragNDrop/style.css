@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    height: 10vh;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#area {
+    width: 100vw;
+    height: 90vh;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box {
+    height: 80%;
+    width: 40vw;
+    border: 3px dashed blue;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 10vw;
+}

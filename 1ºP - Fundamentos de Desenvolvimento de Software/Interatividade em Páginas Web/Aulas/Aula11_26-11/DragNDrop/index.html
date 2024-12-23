@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Drag N Drop</h1>
+    </header>
+
+    <section id="area">
+        <div class="box" id="origem" ondragover="dragOver(event)" ondrop="drop(event)">
+            <img 
+                src="https://static.vecteezy.com/system/resources/thumbnails/024/859/554/small/cat-portrait-isolated-illustration-ai-generative-png.png" 
+                alt="Gato fofo" title="Gato fofo" 
+                draggable="true" id="gatin" ondragstart="dragStart(event)"
+            />
+            <img src="https://png.pngtree.com/png-clipart/20230514/original/pngtree-smile-dog-on-white-background-png-image_9160783.png" 
+                alt="Cachorro fofo" title="Cachorro fofo" 
+                draggable="true" id="dog" ondragstart="dragStart(event)"
+            />
+            <p draggable="true" id="texto" ondragstart="dragStart(event)">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos, iusto! Libero error veniam incidunt fuga nihil, maxime vero sunt ducimus, ad dolores eum ut ipsam odit iure voluptate? Asperiores, non?
+            </p>
+        </div>
+        <div class="box" id="destino" ondragover="dragOver(event)" ondrop="drop(event)"></div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
