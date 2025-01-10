@@ -20,15 +20,3 @@ main {
     background-color: bisque;
     border-radius: 12px;
 }
-
-.img {
-    width: 260px;
-}
-
-.descricao {}
-
-.preco {
-    font-style: italic;
-    font-weight: bold;
-    margin-top: 10px;
-}
