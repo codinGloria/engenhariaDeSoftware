@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+    width: 280px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid;
+    background-color: bisque;
+    border-radius: 12px;
+}
+
+.img {
+    width: 260px;
+}
+
+.descricao {}
+
+.preco {
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 10px;
+}
