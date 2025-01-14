@@ -12,7 +12,7 @@ O método de avaliação que temos por lá são:
 
 O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos, temos um conjunto de disciplinas de um determinado tema e 2 projetos integradores que consolidam o aprendizado de cada fase.
 
-<h3><a href="./1ºP - Fundamentos de Desenvolvimento de Software">1ºP -> Fundamentos de Desenvolvimento de Software </a></h3>
+<h3><a href="./1ºP - Fundamentos de Desenvolvimento de Software">1ºP -> Fundamentos de Desenvolvimento de Software ✅ </a></h3>
 
   - Programação Web com HTML5 e CSS3
   - Programação Web com Javascript
