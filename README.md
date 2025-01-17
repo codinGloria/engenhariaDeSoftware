@@ -18,12 +18,12 @@ O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos
   - Programação Web com Javascript
   - Interatividade em Páginas Web
 
-<h3><a href="./2ºP - Processamento de Dados">2ºP -> Processamento de Dados </a></h3>
+<h3><a href="./2ºP - Desenvolvimento Back-End">2ºP -> Desenvolvimento Back-End </a></h3>
 
-  - Visualização de Dados e Introdução a SQL
-  - Fundamentos de Programação com Python
-  - Fundamentos de Modelagem Relacional e SQL
-  - Fundamentos de Python para Processamento de Dados
+  - Fundamentos de Desenvolvimento com Java
+  - Fundamentos de Desenvolvimento com C#
+  - Desenvolvimento de Serviços Web com Java
+  - Desenvolvimento de aplicações MVC com C#
 
 <h3><a href="./3ºP - Desenvolvimento Front-End com Frameworks">3ºP -> Desenvolvimento Front-End com Frameworks </a></h3>
 
@@ -32,12 +32,12 @@ O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos
   - Desenvolvimento Mobile com React Native
   - Desenvolvimento Web com React
 
-<h3><a href="./4ºP - Desenvolvimento Back-End">4ºP -> Desenvolvimento Back-End </a></h3>
+<h3><a href="./4ºP - Processamento de Dados">4ºP -> Processamento de Dados </a></h3>
 
-  - Fundamentos de Desenvolvimento com Java
-  - Fundamentos de Desenvolvimento com C#
-  - Desenvolvimento de Serviços Web com Java
-  - Desenvolvimento de aplicações MVC com C#
+  - Visualização de Dados e Introdução a SQL
+  - Fundamentos de Programação com Python
+  - Fundamentos de Modelagem Relacional e SQL
+  - Fundamentos de Python para Processamento de Dados
 
 <h3><a href="./5ºP - Ciência da Computação">5ºP -> Ciência da Computação </a></h3>
 

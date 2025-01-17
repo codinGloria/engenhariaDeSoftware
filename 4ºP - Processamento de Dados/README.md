@@ -1,14 +1,14 @@
-<h1 align="center"> Bloco 3 e 4: Processamento de Dados </h1>
+<h1 align="center"> Bloco 7 e 8: Processamento de Dados </h1>
 
 Este período é dedicado ao processamento de dados, introduzindo conceitos de visualização e manipulação de dados, bem como os fundamentos de programação em Python e SQL. No segundo bloco, foca em modelagem relacional e técnicas avançadas de Python para análise de dados.
 
-## Disciplinas - Bloco 3
+## Disciplinas - Bloco 7
 
 - Visualização de Dados e Introdução a SQL
 - Fundamentos de Programação com Python
 ________________________________________
 
-## Disciplinas - Bloco 4
+## Disciplinas - Bloco 8
 
 - Fundamentos de Modelagem Relacional e SQL
 - Fundamentos de Python para Processamento de Dados

@@ -1,14 +1,14 @@
-<h1 align="center"> Bloco 7 e 8: Desenvolvimento Back-End </h1>
+<h1 align="center"> Bloco 3 e 4: Desenvolvimento Back-End </h1>
 
 Este período introduz os fundamentos do desenvolvimento de sistemas back-end utilizando as linguagens Java e C#. Os alunos aprenderão a criar serviços de API conectados a bancos de dados e implementar metodologias de desenvolvimento de software, aprofundando em serviços web e aplicações MVC.
 
-## Disciplinas - Bloco 7
+## Disciplinas - Bloco 3
 
 - Fundamentos de Desenvolvimento com Java
 - Fundamentos de Desenvolvimento com C#
 ________________________________________
 
-## Disciplinas - Bloco 8
+## Disciplinas - Bloco 4
 
 - Desenvolvimento de Serviços Web com Java
 - Desenvolvimento de Aplicações MVC com C#
