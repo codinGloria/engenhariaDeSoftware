@@ -1,0 +1,50 @@
+## ASP.NET Core
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+.vs2019/
+.vs2017/
+.idea/
+.vscode/
+
+# ASP.NET Core module folder for Linux
+wwwroot/
+
+# User secrets for development (it stores sensitive data)
+secrets.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (x64/x86)
+*.x64
+*.x86
+
+# Windows Installer logs
+*.log
+
+# ASP.NET temporary files
+ASP.NET/
+# .NET Core runtime files
+dotnet/
+
+# Windows Installer
+*.appx
+
+# Rider specific files
+.idea/
+.idea_modules/
+
+# JetBrains Rider folders
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Linux files
+*~
