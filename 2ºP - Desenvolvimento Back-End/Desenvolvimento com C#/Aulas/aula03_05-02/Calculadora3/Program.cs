@@ -13,7 +13,10 @@
             Console.WriteLine("Soma = " + result);
             result = op1 - op2;
             Console.WriteLine("Subtração = " + result);
-
+            result = op1 * op2;
+            Console.WriteLine("Multiplicação = " + result);
+            result = op1 / op2;
+            Console.WriteLine("Divisão = " + result);
         }
     }
 }
