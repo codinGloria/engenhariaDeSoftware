@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Glória\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Glória\\Downloads\\engenhariaDeSoftware\\2ºP - Desenvolvimento Back-End\\Desenvolvimento com C#\\Aulas\\aula04.07-02\\Calculadora3\\Calculadora3.csproj",
+      "projectName": "Calculadora3",
+      "projectPath": "C:\\Users\\Glória\\Downloads\\engenhariaDeSoftware\\2ºP - Desenvolvimento Back-End\\Desenvolvimento com C#\\Aulas\\aula04.07-02\\Calculadora3\\Calculadora3.csproj",
+      "packagesPath": "C:\\Users\\Glória\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Glória\\Downloads\\engenhariaDeSoftware\\2ºP - Desenvolvimento Back-End\\Desenvolvimento com C#\\Aulas\\aula04.07-02\\Calculadora3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Glória\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\Glória\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

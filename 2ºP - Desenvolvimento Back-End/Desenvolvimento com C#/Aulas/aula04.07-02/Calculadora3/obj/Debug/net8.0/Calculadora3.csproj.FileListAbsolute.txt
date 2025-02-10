@@ -1,0 +1,44 @@
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\bin\Debug\net8.0\Calculadora3.exe
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\bin\Debug\net8.0\Calculadora3.deps.json
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\bin\Debug\net8.0\Calculadora3.runtimeconfig.json
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\bin\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\bin\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfoInputs.cache
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfo.cs
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\refint\Calculadora3.dll
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\Calculadora3.genruntimeconfig.cache
+C:\Users\Glória\Downloads\Calculadora\Calculadora3\obj\Debug\net8.0\ref\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.exe
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.deps.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.runtimeconfig.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfoInputs.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfo.cs
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.sourcelink.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\refint\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.genruntimeconfig.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04_07-02\Calculadora3\obj\Debug\net8.0\ref\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.exe
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.deps.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.runtimeconfig.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\bin\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfoInputs.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.AssemblyInfo.cs
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.csproj.CoreCompileInputs.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.sourcelink.json
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\refint\Calculadora3.dll
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.pdb
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\Calculadora3.genruntimeconfig.cache
+C:\Users\Glória\Downloads\engenhariaDeSoftware\2ºP - Desenvolvimento Back-End\Desenvolvimento com C#\Aulas\aula04.07-02\Calculadora3\obj\Debug\net8.0\ref\Calculadora3.dll

@@ -1,14 +1,12 @@
 ﻿namespace Calculadora3 {
     internal class Program {
         static void Main(string[] args) {
-
-            double op1, op2;
             
-            Console.WriteLine("********** Calculadora **********");
-            op1 = EntrarOperando();
-            op2 = EntrarOperando();
+            int opcao = EntrarOperador();
+            double op1 = EntrarOperando();
+            double op2 = EntrarOperando();
             
-            Calculadora(op1, op2);
+            Calculadora(opcao, op1, op2);
         }
 
         // Função sem parâmetros, com retorno
@@ -17,9 +15,8 @@
             double op = double.Parse(Console.ReadLine());
             return op;
         }
-        
-        public static void Calculadora(double op1, double op2) {
-            
+
+        public static int EntrarOperador() {
             Console.WriteLine("********** Calculadora **********");
             Console.WriteLine("[1] Soma");
             Console.WriteLine("[2] Subtração");
@@ -28,6 +25,9 @@
             Console.WriteLine("Qual operação deseja fazer? ");
             
             int opcao = int.Parse(Console.ReadLine());
+            return opcao;
+        }
+        public static void Calculadora(int opcao, double op1, double op2) {
             
             switch (opcao) {
                 case 1:
