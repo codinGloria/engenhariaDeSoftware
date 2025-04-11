@@ -33,26 +33,52 @@ class Program {
     }
     
     public static string EnterName() {
-        Console.Write("\nEnter the name: ");
-        string name = Console.ReadLine();
+        string name;
+        do {
+            Console.Write("\nEnter the name: ");
+            name = Console.ReadLine();
+            if (name.Length == 0) {
+                Console.WriteLine("Empty name. Try again.");
+            }
+            else {
+                break;
+            }
+        } while (true);
+        
         return name;
     }
     
-    public static double EnterGrade(string msg) {
-        double grade;
+    public static double EnterReal(string msg) {
+        double num;
         do {
             try {
                 Console.Write(msg);
-                grade = double.Parse(Console.ReadLine());
+                num = double.Parse(Console.ReadLine());
                 break;
             } catch (FormatException) {
                 Console.WriteLine("Invalid input. Try again.");
             }
         } while (true);
         
+        return num;
+    }
+
+    public static double EnterGrade(string msg) {
+        double grade;
+
+        do {
+            grade = EnterReal(msg);
+            if ((grade < 0) || (grade > 10)) {
+                Console.WriteLine("Invalid grade. Try again.");
+            }
+            else {
+                break;
+            }
+        } while (true);
+
         return grade;
     }
-    
+
     public static void PrintStudents(List<Student> students) {
         Console.WriteLine("\n---- Students list ----");
         foreach (Student student in students) {
