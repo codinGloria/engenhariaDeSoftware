@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063767&height=120&section=header"/>
+
 <h1 align=center> Bacharelado: Engenharia de Software 🎓 </h1>
 
 Plataforma: Instituto INFNET
@@ -64,3 +66,5 @@ O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos
   - Melhores Práticas em DevOps
   - Padrões de Arquitetura de Microsserviços
   - Segurança no Processo e Desenvolvimento de Software
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063767&height=120&section=footer"/>
