@@ -14,53 +14,53 @@ O método de avaliação que temos por lá são:
 
 O curso é dividido em 16 blocos principais (2 por período), a cada dois blocos, temos um conjunto de disciplinas de um determinado tema e 1 projeto integrador que consolida o aprendizado de cada fase.
 
-<h3><a href="./1ºP - Fundamentos de Desenvolvimento de Software">1ºP -> Fundamentos de Desenvolvimento de Software ✅ </a></h3>
+<h3><a href="./1P-FundamentosDeDesenvolvimentoDeSoftware/">1ºP -> Fundamentos de Desenvolvimento de Software ✅ </a></h3>
 
   - Programação Web com HTML5 e CSS3
   - Programação Web com Javascript
   - Interatividade em Páginas Web
 
-<h3><a href="./2ºP - Desenvolvimento Back-End">2ºP -> Desenvolvimento Back-End </a></h3>
+<h3><a href="./2P-DesenvolvimentoBack-End/">2ºP -> Desenvolvimento Back-End </a></h3>
 
   - Fundamentos de Desenvolvimento com Java
   - Fundamentos de Desenvolvimento com C#
   - Desenvolvimento de Serviços Web com Java
   - Desenvolvimento de aplicações MVC com C#
 
-<h3><a href="./3ºP - Desenvolvimento Front-End com Frameworks">3ºP -> Desenvolvimento Front-End com Frameworks </a></h3>
+<h3><a href="./3P-DesenvolvimentoFront-EndComFrameworks/">3ºP -> Desenvolvimento Front-End com Frameworks </a></h3>
 
   - Mobile-first UI com React
   - Fundamentos de React
   - Desenvolvimento Mobile com React Native
   - Desenvolvimento Web com React
 
-<h3><a href="./4ºP - Processamento de Dados">4ºP -> Processamento de Dados </a></h3>
+<h3><a href="./4P-ProcessamentoDeDados/">4ºP -> Processamento de Dados </a></h3>
 
   - Visualização de Dados e Introdução a SQL
   - Fundamentos de Programação com Python
   - Fundamentos de Modelagem Relacional e SQL
   - Fundamentos de Python para Processamento de Dados
 
-<h3><a href="./5ºP - Ciência da Computação">5ºP -> Ciência da Computação </a></h3>
+<h3><a href="./5P-CienciaDaComputacao/">5ºP -> Ciência da Computação </a></h3>
 
   - Estrutura de Dados e Algoritmos Avançados
   - Arquitetura de Computadores e Sistemas Operacionais
   - Arquitetura de Redes e Computadores
 
-<h3><a href="./6ºP - Engenharia de Dados - Big Data">6ºP -> Engenharia de Dados: Big Data </a></h3>
+<h3><a href="./6P-EngenhariaDeDados-BigData/">6ºP -> Engenharia de Dados: Big Data </a></h3>
 
   - Administração de BDs noSQL com MongoDB
   - Fundamentos em Engenharia de Dados para Big Data
   - Implementação de Soluções Big Data com Hadoop
   - Desenvolvimento de Soluções Big Data com Apache Spark
   
-<h3><a href="./7ºP - Engenharia Disciplinada de Softwares">7ºP -> Engenharia Disciplinada de Softwares </a></h3>
+<h3><a href="./7P-EngenhariaDisciplinadaDeSoftwares/">7ºP -> Engenharia Disciplinada de Softwares </a></h3>
 
   - Análise, Projeto e Construção Disciplinada de Softwares
   - Melhores práticas de Codificação
   - Refatoração
 
-<h3><a href="./8ºP - Engenharia de Software Escaláveis">8ºP -> Engenharia de Software Escaláveis </a></h3>
+<h3><a href="./8P-EngenhariaDeSoftwareEscalaveis/">8ºP -> Engenharia de Software Escaláveis </a></h3>
 
   - Desenvolvimento de Software Ágil e Escalável com Microsserviços
   - Melhores Práticas em DevOps
